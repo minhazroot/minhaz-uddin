@@ -1,6 +1,8 @@
 body {
     padding: 0;
     margin: 0;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Merriweather', serif;
 
 }
 
@@ -49,3 +51,71 @@ body {
 }
 
 /* home complit  */
+.about-me {
+    margin-top: 10px;
+    display: flex;
+    background-image: url("img/about\ me.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+
+
+
+}
+
+.about-me-sub {
+    width: 50%;
+}
+
+.about-me img {
+    width: 80%;
+    height: 600px;
+
+    margin-top: 200px;
+    box-shadow: 10px 7px 50px rgb(106, 98, 98);
+    margin-left: 40px;
+
+}
+
+.about-me-sub h1 {
+    margin-top: 200px;
+    font-size: 40px;
+    color: white;
+}
+
+.about-me-sub h3 {
+    font-size: 30px;
+    color: white;
+
+}
+
+.about-me-sub p {
+    font-size: 30px;
+    line-height: 50px;
+    color: white;
+}
+
+/* about me style fenish */
+.discription {
+    margin-top: 230px;
+    height: 300px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #1E90FF;
+
+}
+
+.discription h1 {
+    padding-top: 40px;
+    padding-left: 20px;
+
+}
+
+.discription p {
+    padding-top: 30px;
+    padding-left: 20px;
+    color: white;
+    font-size: 20px;
+
+}
