@@ -1,0 +1,39 @@
+.home {
+    display: flex;
+    height: 100px;
+    width: 100%;
+    background-image: url("img/61764.jpg");
+    background-size: cover;
+}
+
+.home-sub {
+    width: 50%;
+
+
+}
+
+.home-sub img {
+    width: 90%;
+}
+
+.home-sub {
+    width: 90%;
+    color: white;
+    font-size: 25px;
+}
+
+.home-sub #name {
+    color: orange;
+}
+
+.home-sub a {
+    font-size: 25px;
+    color: white;
+
+    padding: 25px 35px;
+    background-color: orange;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+/* head style complit  */
